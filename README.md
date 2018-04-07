@@ -9,4 +9,8 @@ good evening
 
 paraparambil house
 edakulam po
+<<<<<<< HEAD
 edakulam
+=======
+irinjalakuda
+>>>>>>> commit5
